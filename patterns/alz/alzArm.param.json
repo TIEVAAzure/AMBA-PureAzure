@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "Cloud Practice Azure"
+      "value": "managementgroupid"
     },
     "platformManagementGroup": {
-      "value": "pa-platform"
+      "value": "managementgroupid"
     },
     "IdentityManagementGroup": {
-      "value": "pa-identity"
+      "value": "managementgroupid"
     },
     "managementManagementGroup": {
-      "value": "pa-management"
+      "value": "managementgroupid"
     },
     "connectivityManagementGroup": {
-      "value": "pa-connectivity"
+      "value": "managementgroupid"
     },
     "LandingZoneManagementGroup": {
-      "value": "pa-landingzones"
+      "value": "managementgroupid"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -44,7 +44,7 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-amba-monitoring-001"
+          "value": "amba-monitoring-001-rg"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
