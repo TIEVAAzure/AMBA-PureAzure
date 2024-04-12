@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Cloud Practice Azure"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "pa-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "pa-identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "pa-management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "pa-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "pa-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -52,14 +52,14 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "uksouth"
         }
       }
     },
     "policyAssignmentParametersNotificationAssets": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": ""
+          "value": "chris.thompson@tieva.co.uk"
         },
         "ALZLogicappResourceId": {
           "value": ""
