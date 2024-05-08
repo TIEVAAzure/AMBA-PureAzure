@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "managementgroupid"
+      "value": "azmgmtg-CloudPractice"
     },
     "platformManagementGroup": {
-      "value": "managementgroupid"
+      "value": "azmgmtg-CloudPractice"
     },
     "IdentityManagementGroup": {
-      "value": "managementgroupid"
+      "value": "azmgmtg-CloudPractice"
     },
     "managementManagementGroup": {
-      "value": "managementgroupid"
+      "value": "azmgmtg-CloudPractice"
     },
     "connectivityManagementGroup": {
-      "value": "managementgroupid"
+      "value": "azmgmtg-CloudPractice"
     },
     "LandingZoneManagementGroup": {
-      "value": "managementgroupid"
+      "value": "azmgmtg-CloudPractice"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -44,7 +44,7 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "amba-monitoring-001-rg"
+          "value": "TIEVA-CSP-Monitoring_rg"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
